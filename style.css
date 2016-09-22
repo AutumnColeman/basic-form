@@ -1,0 +1,19 @@
+
+ .up, .down {
+  background-color: #1bc1a4;
+  text-align: center;
+  color: #000;
+  font-family: 'Baloo Bhaina', cursive;
+  font-size: 3em;
+}
+h2 {
+  color: #000;
+  font-family: 'Baloo Bhaina', cursive;
+}
+ .center {
+   margin-top: 10px;
+ }
+
+ .side {
+   background-color: #1bc1a4;
+ }
